@@ -1,2 +1,6 @@
-# Travel-Mate-Project
-Key tasks included designing SQL queries to extract booking and revenue trends, applying Python for data preparation, and creating interactive dashboards in Power BI that displayed customer booking patterns, regional performance, and seasonal demand insights. 
+# TravelMate Analytics Dashboard  
+This project analyzes a travel company dataset using Power BI, SQL, Zoho, and Python.  
+- Cleaned raw data using Python (Pandas).  
+- Queried structured data in SQL for booking trends.  
+- Built interactive dashboards in Power BI.  
+- Tools: Power BI, SQL, Python, Zoho Analytics  
